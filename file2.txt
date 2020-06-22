@@ -1,1 +1,2 @@
 "my second file"
+Wow.. I am enjoying Git 
